@@ -13,3 +13,5 @@ antes de freir
 precio receta:
 1 kg de patatas --> 1€
 1 kg de cebollas --> 0,50 €
+habia olvidado el iva
++4% --> 15cent
